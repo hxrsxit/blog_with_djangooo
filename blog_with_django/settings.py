@@ -26,7 +26,7 @@ SECRET_KEY = '+2o^=i=wk!1ngv9d))h19+mb*arem)b3mi=lifczm(-9r%64k&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['socialbloger.herokuapp.com' , '127.0.0.1' , 'localhost']
+ALLOWED_HOSTS = ['hxt-blogs.herokuapp.com' , '127.0.0.1' , 'localhost']
 
 
 # Application definition
